@@ -1,0 +1,8 @@
+Package: andrewAddins
+Type: Package
+Title: Andrew's Custome Rstudio Addins
+Version: 0.1.0
+Authors@R: person("Andrew", "Jackson", email = "a.jackson@tcd.ie", role = c("aut", "cre"))
+Description: A set of my own addins for Rstudio
+License: GPL-3
+LazyData: TRUE

@@ -1,0 +1,4 @@
+Name: Insert comment hr
+Description: Inserts comment line horizontal ruler at the cursor position.
+Binding: insertCommentLine
+Interactive: false
